@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BannerWoo\n"
+"POT-Creation-Date: 2015-04-13 10:39+0100\n"
+"PO-Revision-Date: 2015-04-13 10:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bannerwoo.php:73
+msgid "Banner product"
+msgstr ""
+
+#: bannerwoo.php:90
+msgid "Unit"
+msgstr ""
+
+#: bannerwoo.php:91
+msgid "The quantity unit."
+msgstr ""
+
+#: bannerwoo.php:93
+msgid "Day"
+msgstr ""
+
+#: bannerwoo.php:94
+msgid "Week"
+msgstr ""
+
+#: bannerwoo.php:95
+msgid "Month"
+msgstr ""
+
+#: bannerwoo.php:96
+msgid "Year"
+msgstr ""
+
+#: bannerwoo.php:104
+msgid "Banner Size"
+msgstr ""
+
+#: bannerwoo.php:106
+msgid "468 x 60 - Full Banner"
+msgstr ""
+
+#: bannerwoo.php:107
+msgid "728 x 90 - Leaderboard"
+msgstr ""
+
+#: bannerwoo.php:108
+msgid "336 x 280 - Square"
+msgstr ""
+
+#: bannerwoo.php:109
+msgid "300 x 250 - Square"
+msgstr ""
+
+#: bannerwoo.php:110
+msgid "250 x 250 - Square"
+msgstr ""
+
+#: bannerwoo.php:111
+msgid "160 x 600 - Skyscraper"
+msgstr ""
+
+#: bannerwoo.php:112
+msgid "120 x 600 - Skyscraper"
+msgstr ""
+
+#: bannerwoo.php:113
+msgid "120 x 240 - Small Skyscraper"
+msgstr ""
+
+#: bannerwoo.php:114
+msgid "240 x 400 - Fat Skyscraper"
+msgstr ""
+
+#: bannerwoo.php:115
+msgid "234 x 60 - Half Banner"
+msgstr ""
+
+#: bannerwoo.php:116
+msgid "180 x 150 - Rectangle"
+msgstr ""
+
+#: bannerwoo.php:117
+msgid "125 x 125 - Square Button"
+msgstr ""
+
+#: bannerwoo.php:118
+msgid "120 x 90 - Button"
+msgstr ""
+
+#: bannerwoo.php:119
+msgid "120 x 60 - Button"
+msgstr ""
+
+#: bannerwoo.php:120
+msgid "88 x 31 - Button"
+msgstr ""
+
+#: bannerwoo.php:351
+msgid "Settings"
+msgstr ""
+
+#: bannerwoo.php:352
+msgid "Premium Version"
+msgstr ""
+
+#: includes/banner-option.php:20
+msgid "Banners Placeholders"
+msgstr ""
+
+#: includes/banner-option.php:27
+msgid "Background color"
+msgstr ""
+
+#: includes/banner-option.php:35
+msgid "Border color"
+msgstr ""
+
+#: includes/banner-option.php:43
+msgid "Text/Link color"
+msgstr ""
+
+#: includes/banner-option.php:51
+msgid "Text for empty banner"
+msgstr ""
+
+#: includes/banner-option.php:95
+msgid "Buy now!"
+msgstr ""
+
+#: includes/banner-option.php:102
+msgid "Set the colors and text of the banners placeholders."
+msgstr ""
+
+#: includes/banner-option.php:114
+msgid "Get Support and Pro Features?"
+msgstr ""
+
+#: includes/banner-option.php:115
+msgid ""
+"By purchasing the premium version of Bannerwoo plugin, you will take "
+"advantage of the advanced features of the product and you will get one year "
+"of free updates and support through our platform in 24h."
+msgstr ""
+
+#: includes/banner-option.php:116
+msgid "Get Support and Pro Features"
+msgstr ""
+
+#: includes/banner-shortcode.php:23
+msgid "Error. This banner does not exist!"
+msgstr ""
+
+#: includes/banner-type.php:33
+msgid "Your banner is active now!"
+msgstr ""
+
+#: includes/banner-type.php:46
+msgid "Banner Details"
+msgstr ""
+
+#: includes/banner-type.php:62
+msgid "Update Banner"
+msgstr ""
+
+#: includes/banner-type.php:69
+msgid "Upload Banner"
+msgstr ""
+
+#: includes/banner-type.php:97
+msgid "Upload error"
+msgstr ""
+
+#: includes/banner-type.php:102
+msgid "Destination Url field is empty"
+msgstr ""
+
+#: includes/banner-type.php:119
+msgid "Destination Url"
+msgstr ""
+
+#: includes/banner-type.php:123
+msgid "Select File"
+msgstr ""
+
+#: includes/banner-widget.php:12 includes/my-banners.php:26
+msgid "Banner"
+msgstr ""
+
+#: includes/banner-widget.php:12
+msgid "Insert your banner in the sidebars"
+msgstr ""
+
+#: includes/banner-widget.php:35
+msgid "ADV"
+msgstr ""
+
+#: includes/banner-widget.php:46
+msgid "Title"
+msgstr ""
+
+#: includes/banner-widget.php:50
+msgid "Banner ID"
+msgstr ""
+
+#: includes/my-banners.php:22
+msgid "My Banners"
+msgstr ""
+
+#: includes/my-banners.php:27
+msgid "Size"
+msgstr ""
+
+#: includes/my-banners.php:28
+msgid "Expires"
+msgstr ""
+
+#: includes/my-banners.php:29
+msgid "Status"
+msgstr ""
+
+#: includes/my-banners.php:79
+msgid "expired"
+msgstr ""
+
+#: includes/my-banners.php:81
+msgid "no active"
+msgstr ""
+
+#: includes/my-banners.php:83
+msgid "active"
+msgstr ""
+
+#: includes/my-banners.php:92
+msgid "Activate Now"
+msgstr ""
+
+#: includes/my-banners.php:94
+msgid "Edit"
+msgstr ""
